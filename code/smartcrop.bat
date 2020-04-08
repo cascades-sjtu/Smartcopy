@@ -1,0 +1,1 @@
+python C:\Users\10152\Documents\Visual_Studio_Code\python\smartcrop\smartcrop_gui.py
